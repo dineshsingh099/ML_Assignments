@@ -9,6 +9,6 @@ To get started, simply browse through the `assignments` folder and choose a topi
 
 ## Feedback
 
-We value your feedback! If you have any questions, suggestions, or issues, please don't hesitate to [open an issue](https://github.com/dineshsingh099/machine-learning-assignments/issues).
+We value your feedback! If you have any questions, suggestions, or issues, please don't hesitate to [open an issue](https://github.com/dineshsingh099/ML_Assignments/issues)
 
 Happy learning!
