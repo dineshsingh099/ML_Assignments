@@ -6,12 +6,9 @@ Welcome to the Machine Learning Assignments Repository! This repository is desig
 
 To get started, simply browse through the `assignments` folder and choose a topic that interests you. Each assignment comes with detailed instructions and resources to help you along the way.
 
-## Contributing
-
-We welcome contributions from the community! If you have an assignment or project you'd like to share, feel free to submit a pull request. Please make sure to follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## Feedback
 
-We value your feedback! If you have any questions, suggestions, or issues, please don't hesitate to [open an issue](https://github.com/yourusername/machine-learning-assignments/issues).
+We value your feedback! If you have any questions, suggestions, or issues, please don't hesitate to [open an issue](https://github.com/dineshsingh099/machine-learning-assignments/issues).
 
 Happy learning!
